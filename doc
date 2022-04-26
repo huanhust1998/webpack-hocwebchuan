@@ -1,0 +1,6 @@
+Tạo một Bundle:
+  - Tạo một đóng gói cho project, gom nội dung javascript vào chung một file duy nhất, và minify nó lại.
+Cuấ trúc trên giúp phân biệt rõ:
+  - Thư mục src sẽ chứa nội dung dành cho input, tức là tất cả các file Javascript(hoặc css, scss ...) bên trong sẽ do bạn tạo và viết code
+  - Thư mục dist sẽ chứa nội dung dành cho output, các file javascript (hoặc các file như css,scss ...) sẽ do Webpack tự động tạo
+  
